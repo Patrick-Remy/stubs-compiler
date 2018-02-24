@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Antlr4",
+        "repositoryURL": "https://github.com/Patrick-Remy/antlr4",
+        "state": {
+          "branch": null,
+          "revision": "93179b21623758c14c4072478617436c7ad3d4b0",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
